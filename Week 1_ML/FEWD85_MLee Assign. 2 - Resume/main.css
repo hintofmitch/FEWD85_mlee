@@ -1,0 +1,108 @@
+body {
+	background-color: #514f4f;
+	margin: 10px;
+	border: 2px gray solid;
+	font-family: Times New Roman, serif;
+	padding: 15px;
+	font-color: white;
+}
+
+p {
+	font-family: Times New Roman;
+	font-color: white;
+	font-size: 12px;
+}
+
+h1 {
+	font-size: 22px;
+	font-color: white;
+	font-style: italic;
+	text-align: center;
+	font-family: Times New Roman;
+}
+
+h2 {
+	font-weight: bold;
+	font-color: white;
+	font-size: 18px;
+	font-family: Arial;
+}
+
+h3 {
+	text-transform: uppercase;
+	font-color: gray;
+	font-size: 14px;
+}
+
+hr {
+	color: white;
+	align: center;
+	width: 80%;
+}
+
+.header {
+	padding: 20px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-color: white;
+}
+
+.header2 {
+	padding: 20px;
+	text-align: center;
+	margin: 5px;
+}
+
+h4 {
+	font-color: white;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+h5 {
+	font-color: white;
+	font-weight: none;
+	font-family: Arial;
+	font-size: 11px;
+}
+
+h6 {
+	font-color: gray;
+	font-size: 10px;
+	font-family: Arial;
+}
+
+a:hover {
+	font-weight: bold;	
+}
+
+a:visited {
+	font-color: teal;
+}
+
+.regular {
+	font-family: Times New Roman;
+	font-size: 12px;
+	text-align: left;
+	font-color: white;
+}
+
+.resume {
+	font-color: gray;
+	font-size: 12px;
+	font-family: Times New Roman;
+	text-indent: 10px;
+}
+
+.footer {
+
+}
+
+#profile {
+	float: right;
+	border: white;
+	padding: 2px;
+	margin: 8px;
+	display: inline;
+}
